@@ -1,0 +1,149 @@
+.firstrow{
+	height: 40px;
+	border: 1px #34495e;
+	background-color:  #34495e  ;
+}
+
+.iconmobileclsss{
+	font-size: 20px !important;
+	margin-left: 22px;
+	margin-top: 6px;
+	color: white;
+
+}
+.leftnavbar{
+height: 820px;
+	border: 1px #34495e;
+	background-color:  #34495e;
+}
+.image_icon{
+/*border: 3px solid #d3d4d5;*/
+/*border-radius: 5px;
+*/margin-top: 7px;
+width: 77px;
+margin-left: 6px;
+}
+.image_div{
+	border: 2px solid white;
+border-radius: 5px;
+width: 93px;
+height: 101px;
+color: white;
+margin-top: 13px;	
+}
+.imagetext{
+	margin-left: 12px;
+}
+.secondrow{
+	height: 40px;
+	border: 1px #0386da;
+	background-color:  #0386da  ;
+}
+.button_name{
+height: 41px;
+width: 85px;
+}
+.third_row{
+	height: 340px;
+	border: 1px solid gray;
+	background-color:;
+	background-image: url("../image/background.png");
+}
+.fifth_row{
+height: 340px;
+margin-top: 22px;
+	/*border: 1px solid red;*/
+}
+.fifth_row_1{
+	height: 170px;
+	border: 1px solid white;
+	background-image: url("../image/image7.png");
+}
+.fifth_row_2{
+	height: 170px;
+	border: 1px solid white;
+	background-image: url("../image/image8.jpg");
+}
+.fifth_row_3{
+	height: 170px;
+	border: 1px solid white;
+	background-image: url("../image/images.jpg");
+}
+
+.sixth_row{
+	height: 340px;
+	/*border: 1px solid red;*/
+	margin-top: 8px;
+
+}
+.sixth_row_1{
+	height: 340px;
+	border: 1px solid blue;
+	/*background-image: url("../image/images.jpg");*/
+}
+.sixth_row_2{
+		height: 340px;
+	border: 1px solid blue;
+	background-image: url("../image/image4.png");
+}
+.text3{
+	border: 1px solid white;
+	height: 90px;
+}
+.text2{
+    border: 1px solid white;
+	height: 90px;	
+}
+.text1{
+    border: 1px solid white;
+	height: 90px;	
+}
+.fifth_row_11{
+	height: 50px;
+	border: 1px solid #0080FF;
+	background-color: #0080FF;
+}
+.fifth_row_12{
+	height: 50px;
+	border: 1px solid #0080FF;
+	background-color: #0080FF;
+}
+.fifth_row_13{
+	height: 50px;
+	border: 1px solid #0080FF;
+	background-color: #0080FF;
+}
+.smedia_icon
+{
+	font-size: 20px !important;
+	margin-left: 62px;
+	margin-top: 15px;
+	color: white;
+}
+
+.car1
+{
+	height: 340px;
+	border: 1px solid green;
+	margin-top: 44px;
+	
+}
+.car2
+{
+	height: 340px;
+	border: 1px solid green;
+	margin-top: 44px;
+	
+}
+.bike
+{
+	height: 340px;
+	border: 1px solid blue;
+	margin-top: 44px;
+}
+.bike1
+{
+	height: 340px;
+	border: 1px solid blue;
+	margin-top: 44px;
+}
