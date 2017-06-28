@@ -1,6 +1,7 @@
 ---
 
 #this is a nginix conf file
+ configuration file
 - hosts: webservers
   vars:
     user: www-data
