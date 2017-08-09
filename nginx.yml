@@ -2,6 +2,7 @@
 
 #this is a nginix conf file
  configuration file
+ root /etc.nginix/nginix.conf
 - hosts: webservers
   vars:
     user: www-data
